@@ -1,7 +1,27 @@
-At this point completed step 17 of 22 and to go onto step 18
+link to lesson is below
 
-18. Now let’s go to EndScene.js.
+https://www.codecademy.com/courses/learn-phaser/projects/counting-conundrum
 
-Depending on the player’s score, we want to display two different animations. If it’s greater than or equal to 70, we want to use the 'happy' sprite sheet. Otherwise, we’ll use the 'sad' sprite sheet.
 
-We’ll start with the 'happy' sprite. Inside the if statement of create(), call this.add.sprite(220, 220, 'happy') and assign it to gameState.win.
+
+Finished!
+
+22. Congratulations! We finished with our project and have a fully functional game that uses scene transitions, animations, and tweens!
+
+If you want to challenge yourself:
+
+- Add a tween that plays when the correct circle is clicked.
+- Change the “wrong” tween to temporarily show the number of the circle.
+- Create an options screen for players:
+  - How long to display the numbers (without being blocked).
+  - How many circles/numbers to display.
+
+
+
+
+
+
+
+
+
+
