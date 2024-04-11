@@ -2,7 +2,8 @@ link to lesson is below
 
 https://www.codecademy.com/courses/learn-phaser/projects/counting-conundrum
 
-
+note gladstone NG:
+run game from vs code
 
 Finished!
 
